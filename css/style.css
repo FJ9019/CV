@@ -22,7 +22,7 @@ section .heading h2 {
 .divider {
     width: 100px;
     height: 2px;
-    background-color: #d82c2e;
+    background-color: #1E90FF;
     margin: 0 auto 20px;
 }
 .divider.white {
@@ -34,7 +34,7 @@ ul {
 
 /* NAVBAR */
 .navbar {
-    background-color: #d82c2e;
+    background-color: #1E90FF;
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: bold;
@@ -51,12 +51,12 @@ ul {
 .nav-link.active,
 .nav-link:hover {
     background-color: white;
-    color: #d82c2e !important;
+    color: #1E90FF !important;
 }
 
 /* ABOUT */
 #about {
-    background-color: #d82c2e;
+    background-color: #1E90FF;
 }
 .profile-picture {
     text-align: center;
@@ -81,12 +81,12 @@ ul {
 }
 .button1:hover {
     background: white;
-    color: #d82c2e;
+    color: #1E90FF;
 }
 
 /* SKILLS */
 #skills .heading h2 {
-    color: #d82c2e;
+    color: #1E90FF;
 }
 #skills .progress {
     height: 45px;
@@ -96,7 +96,7 @@ ul {
     margin-bottom: 0px;
 }
 #skills .progress-bar {
-    background-color: #d82c2e;
+    background-color: #1E90FF;
 }
 #skills .progress-bar h5 {
     text-shadow: 1px 1px 1px black;
@@ -105,7 +105,7 @@ ul {
 
 /* EXPERIENCE */
 #experience {
-    background-color: #d82c2e;
+    background-color: #1E90FF;
 }
 #experience .heading h2 {
     color: white;
@@ -137,7 +137,7 @@ ul {
     clear: both;
 }
 .timeline li .timeline-badge {
-    color: #d82c2e;
+    color: #1E90FF;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -193,12 +193,12 @@ ul {
     font-size: 20px;
 }
 .timeline-heading h4 {
-    color: #d82c2e;
+    color: #1E90FF;
 }
 
 /* EDUCATION */
 #education .heading h2 {
-    color: #d82c2e;
+    color: #1E90FF;
     margin: 15px 0px;
 }
 .education-block {
@@ -220,7 +220,7 @@ ul {
     font-size: 35px;
 }
 .education-block h3 {
-    color: #d82c2e;
+    color: #1E90FF;
     margin: 15px 0px;
 }
 .education-block h4 {
@@ -230,7 +230,7 @@ ul {
 
 /* PORTFOLIO */
 #portfolio {
-    background-color: #d82c2e;
+    background-color: #1E90FF;
 }
 #portfolio .heading h2 {
     color: white;
@@ -251,13 +251,13 @@ ul {
 
 /* RECOMMENDATIONS */
 #recommendations .heading h2 {
-    color: #d82c2e;
+    color: #1E90FF;
 }
 #myCarousel .carousel-item {
     padding: 30px 30px 90px;
 }
 #myCarousel .carousel-item h3 {
-    color: #d82c2e;
+    color: #1E90FF;
     font-style: italic;
 }
 
@@ -267,7 +267,7 @@ footer {
     padding: 20px 0 40px;
 }
 footer span {
-    color: #d82c2e;
+    color: #1E90FF;
     font-size: 25px;
     line-height: 35px;
 }
